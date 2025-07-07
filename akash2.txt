@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 hellogit git
 =======
-hiiiiii
->>>>>>> 7cec3a97945aa2d1415985ede8a069a94b0ac68d
+hiiiii
